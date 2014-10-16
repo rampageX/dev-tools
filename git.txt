@@ -12,3 +12,6 @@ blu@nan-blu-ubuntu:~/workspace/flowcon.dev$ git branch
 * dev 
 git push https://github.com/lzbgt/flowcon.dev.git dev:master  
 git checkout master 
+
+git config --global user.name 
+git config --global user.email
