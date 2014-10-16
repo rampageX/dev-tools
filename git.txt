@@ -1,0 +1,14 @@
+curl -u 'lzbgt@126.com' https://api.github.com/user/repos -d '{"name":"flowsplit"}' 
+git init; git add comit ... 
+git remote add origin https://github.com/lzbgt/flowsplit.git 
+ 
+ 
+ 
+git clone ssh://ubuntu@10.1.32.196/home/ubuntu/workspace/flowcon.dev 
+ 
+git remote set-url origin git://|https://|ssh:// 
+ 
+blu@nan-blu-ubuntu:~/workspace/flowcon.dev$ git branch 
+* dev 
+git push https://github.com/lzbgt/flowcon.dev.git dev:master  
+git checkout master 
