@@ -1,0 +1,3 @@
+GenSortedFiles.sh
+GetIPfromDomainList.sh
+awk '{print $2"/24"}' IPList.txt |perl merge.pl|perl generate_route_cmds.pl
